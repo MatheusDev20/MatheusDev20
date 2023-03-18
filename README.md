@@ -1,8 +1,9 @@
-### Hey, Im Matheus de Paula, Im 23 years old. 👋
+### Hey, I am Matheus, Im 23 years old. 👋
 
 - 💻 Software Developer 
 - 🇧🇷 Born in Juiz de Fora, Brazil  
 - Love to build and learn new stuff 💡
+- Current Learning more about Functional Programming λ 🧐
 
 ###  How to reach me: 📫   
 - 💨 [Site](https://matheusdepaula.dev.br/)   
