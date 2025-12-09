@@ -9,5 +9,3 @@
 - 💨 [Site](https://matheusdepaula.dev.br/)   
 - 💼[Linkedin](https://www.linkedin.com/in/matheusdev20/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDev20&&hide=css,html&exclude_repo=CRUD&show_icons=true&hide_title=true&theme=radical&layout=compact&border_radius=30&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
-
