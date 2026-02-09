@@ -1,4 +1,4 @@
-### Hey, I am Matheus, Im 26 years old. 👋
+### Hey, I am Matheus
 
 - 💻 Software Developer 
 - 🇧🇷 Born in Juiz de Fora, Brazil  
